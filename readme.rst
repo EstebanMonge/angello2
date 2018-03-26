@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEstebanMonge%2Fangello2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEstebanMonge%2Fangello2?ref=badge_shield)
+
 ###################
 What is CodeIgniter
 ###################
@@ -68,3 +70,7 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEstebanMonge%2Fangello2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEstebanMonge%2Fangello2?ref=badge_large)
